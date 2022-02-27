@@ -51,7 +51,7 @@
 |____| |___|[___]'.___.'[__|  \_][___]'.__.' '.__.;__] 
                                                        
 
-by Zipfian Science                               
+by Zipfian Science; Fork by Fabian Sperrle                               
 ```
 Python tools for creating pickles in a different way.
 

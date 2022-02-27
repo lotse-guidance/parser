@@ -25,18 +25,17 @@ else:
 
 
 setup(
-    name="rickled",
+    name="gsrickled",
     version=version_name,
     description='Tools for pickling Python objects in completely different way',
     long_description_content_type='text/markdown',
     long_description=long_description,
     license='Apache 2.0',
     keywords = ['Pickle', 'Python'],
-    author='Zipfian Science',
-    author_email='about@zipfian.science',
+    author='Fabian Sperrle',
+    author_email='fabian.sperrle@gmail.com',
     zip_safe=False,
     # url='https:/zipfian.science',
-    download_url='https://github.com/Zipfian-Science/rickled/archive/v_01.tar.gz',
     packages=find_packages(".", exclude=("tests", "dist", "deploy", "egg-info")),
     include_package_data=True,
     install_requires=[

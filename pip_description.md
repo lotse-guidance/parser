@@ -51,7 +51,7 @@
 |____| |___|[___]'.___.'[__|  \_][___]'.__.' '.__.;__] 
                                                        
                                         
-by Zipfian Science                               
+by Zipfian Science; Fork by Fabian Sperrle
 ```
 Python tools for creating a different type of pickling by [Zipfian Science](https://zipfian.science/).
 
@@ -61,7 +61,7 @@ Works great in interactive Python environments like notebooks.
 
 For documentation, see [docs](http://docs.zipfian.science/rickled/index.html).
 
-Source on [GitHub](https://github.com/Zipfian-Science/rickled).
+Source on [GitHub](https://github.com/FabianSperrle/rickled).
 ## Install
 
 ```shell script
